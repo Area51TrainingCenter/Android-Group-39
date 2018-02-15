@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+
+    <string name="instructions">¡Hola, ingresa tu nombre!</string>
+    <string name="show_welcome">Mostrar Bienvenida</string>
+    <string name="hint_name">Nombre.</string>
+    <string name="welcome">¡Hola %s!</string>
+    <string name="share">Compartir</string>
+    <string name="error_no_name">¡Debes ingresar tu nombre!</string>
+</resources>
