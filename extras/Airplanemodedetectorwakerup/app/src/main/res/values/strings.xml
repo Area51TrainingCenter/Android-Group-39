@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Airplane mode detector waker up</string>
+
+    <string name="wakeup_airplane_mode_detector_app">Despertar aplicación</string>
+</resources>
