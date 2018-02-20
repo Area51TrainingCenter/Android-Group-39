@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Threads App</string>
+
+    <string name="instructions">Selecciona un método de ejecución para la tarea larga.</string>
+    <string name="button_main_thread">Ejecutar en el hilo principal</string>
+    <string name="button_worker_thread">Ejecutar en un Worker Thread</string>
+    <string name="button_async_task">Ejecutar con AsyncTask</string>
+
+    <string name="progress_title">Un momento</string>
+    <string name="progress_content">Cargando&#8230;</string>
+</resources>
