@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Time Counter</string>
+
+    <string name="switch_timer">Activar contador</string>
+</resources>
