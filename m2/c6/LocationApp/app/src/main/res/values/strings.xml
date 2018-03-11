@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location App</string>
+
+    <string name="provider">Proveedor: %s.</string>
+    <string name="latitude">Latitud: %s.</string>
+    <string name="longitude">Longitud: %s.</string>
+    <string name="altitude">Altitud: %s.</string>
+</resources>
