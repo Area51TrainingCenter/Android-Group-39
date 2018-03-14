@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Accelerometer Test</string>
+
+    <string name="x_axis">Eje X: %s m/s^2</string>
+    <string name="y_axis">Eje Y: %s m/s^2</string>
+    <string name="z_axis">Eje Z: %s m/s^2</string>
+</resources>
