@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcelable Test</string>
+
+    <string name="name">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="age">Edad</string>
+    <string name="address">Dirección</string>
+    <string name="register">Registrar</string>
+    <string name="instructions">Hola, ingresa tus datos.</string>
+
+</resources>

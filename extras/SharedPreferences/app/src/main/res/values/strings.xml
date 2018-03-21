@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Last Visitor</string>
+
+    <string name="first_visitor">Ingresa tu nombre ¡Eres el primer visitante!</string>
+    <string name="last_visitor">El último visitante fue %s.</string>
+    <string name="visitor_saved">¡Hola %s!</string>
+    <string name="register_visitor">Registrar Visitante</string>
+    <string name="full_name">Nombre completo.</string>
+</resources>
