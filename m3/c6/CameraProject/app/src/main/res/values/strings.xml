@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CameraProject</string>
+
+    <string name="photo_preview">Preview</string>
+    <string name="take_photo">Take photo</string>
+    <string name="error">Take photo</string>
+    <string name="no_camera_app">Camera app not found :( !</string>
+</resources>

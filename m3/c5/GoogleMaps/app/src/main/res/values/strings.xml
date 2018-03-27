@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google Maps</string>
+    <string name="map_normal">Mapa de calles</string>
+    <string name="map_terrain">Mapa de terreno</string>
+    <string name="map_hybrid">Mapa híbrido</string>
+    <string name="map_satellite">Mapa satelital</string>
+
+    <string name="google_api_key">GOOGLE_API_KEY</string>
+</resources>
