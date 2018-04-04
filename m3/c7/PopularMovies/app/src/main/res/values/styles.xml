@@ -1,0 +1,32 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:scrollbarStyle">outsideOverlay</item>
+    </style>
+
+    <style name="AppTheme.MoviesGridView" parent="AppTheme">
+        <item name="android:numColumns">2</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:horizontalSpacing">@dimen/movies_grid_horizontal_spacing</item>
+        <item name="android:verticalSpacing">@dimen/movies_grid_vertical_spacing</item>
+    </style>
+
+    <style name="AppTheme.MoviesGridElement" parent="AppTheme">
+        <item name="android:layout_width">@dimen/movies_grid_element_width</item>
+        <item name="android:layout_height">@dimen/movies_grid_element_height</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="ProgressBar" parent="Widget.AppCompat.ProgressBar">
+        <item name="android:layout_width">42dp</item>
+        <item name="android:layout_height">42dp</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+</resources>

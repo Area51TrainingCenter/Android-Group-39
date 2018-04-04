@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/refresh"
+        app:showAsAction="never" />
+    <group
+        android:checkableBehavior="single"
+        android:orderInCategory="1">
+        <item
+            android:id="@+id/action_order_most_popular"
+            android:checked="true"
+            android:orderInCategory="1"
+            android:title="@string/order_most_popular"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_order_top_rated"
+            android:orderInCategory="2"
+            android:title="@string/order_top_rated"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_favorites"
+            android:orderInCategory="3"
+            android:title="@string/favorites"
+            app:showAsAction="never" />
+    </group>
+
+</menu>
